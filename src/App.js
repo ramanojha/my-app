@@ -8,7 +8,7 @@ import TextForm from './components/TextForm';
       <>
         <Navbar title="Text Utilities" aboutText="About"/>
         <div className="container-fluid">
-          <TextForm textBox="Text Area" heading="Text Area to Change "/>
+          <TextForm/>
         </div>
       </>
       );
